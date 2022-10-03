@@ -1,0 +1,23 @@
+{
+  "name": "aissa94/search-engine",
+  "type": "library",
+  "description": "Crawling search engine results and extracting metadata for a set of keywords.",
+  "keywords": [
+    "google.ae",
+    "search engine",
+    "google scraping",
+    "google crawling"
+  ],
+  "homepage": "https://github.com/Aissa94/search-engine",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "aissa.belkaid",
+      "email": "da_belkaid@esi.dz",
+      "homepage": "https://github.com/Aissa94"
+    }
+  ],
+  "require": {
+    "simplehtmldom/simplehtmldom": "2.0"
+  }
+}
