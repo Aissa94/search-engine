@@ -49,6 +49,6 @@ array (6) {
   'promoted' => int 0 //promoted is a boolean value indicating whether the result is an ad or organic result
 }
 
-```
 ...
+```
 
