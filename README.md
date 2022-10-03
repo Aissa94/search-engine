@@ -18,7 +18,7 @@ You can also simply download the project from https://github.com/Aissa94/search-
 
 **Example**
 
-![alt text](https://github.com/Aissa94/search-engine/tree/main/images/astrolabs.png)
+![alt text](https://github.com/Aissa94/search-engine/blob/main/images/astrolabs.png)
 
 ``` php
 
