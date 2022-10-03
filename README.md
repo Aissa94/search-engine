@@ -39,6 +39,7 @@ foreach ($results as $value) {
 ```
 
 **Output**
+``` php
 array (6) {
   'keyword' => string 'astrolabs' //keyword being searched
   'ranking' => int 0 //ranking where the result was found on the search engine, the topmost result would be 0 and the last would be 50
@@ -47,5 +48,7 @@ array (6) {
   'description' => string 'AstroLabs serves as a trusted partner to the largest corporates and universities in the region...' //description as it appears in google search
   'promoted' => int 0 //promoted is a boolean value indicating whether the result is an ad or organic result
 }
+
+```
 ...
 
