@@ -14,7 +14,7 @@ This project can be installed via composer by requiring the `aissa94/search-engi
 }
 ```
 
-You can also simply download the project from https://github.com/Aissa94/search-engine and start it from the page "index.html".
+You can also simply download the project from https://github.com/Aissa94/search-engine and start it directly from the "index.html" page.
 
 **Example**
 
